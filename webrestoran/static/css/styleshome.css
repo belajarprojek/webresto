@@ -1,0 +1,21 @@
+body {
+	background-color: 	#00FFFF;
+
+}
+
+h1 {
+    color: #800000;
+    font-style: arial;
+    margin: 50px;
+
+
+}
+
+img {
+	width: 100px;
+	margin: auto;
+}
+
+table {
+	padding: 10px;
+}
